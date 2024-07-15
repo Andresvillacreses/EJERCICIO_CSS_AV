@@ -1,0 +1,35 @@
+body {
+    font-family: Georgia, Cambria, serif;
+    font-size: 16px;
+    color: #00F; 
+    background-color: #CFC; 
+}
+h1 {
+    font-family: Verdana, Calibri, sans-serif;
+    font-size: 32px;
+    color: #F00; 
+}
+h2 {
+    font-family: Verdana, Calibri, sans-serif;
+    font-size: 24px;
+    color: #A00; 
+}
+li {
+    color: rgb(55, 0, 255); 
+}
+span.sustantivo {
+    font-size: 20px;
+    font-weight: bold;
+}
+span.acronimos {
+    color: #FFF; 
+    background-color: #000; 
+    font-style: italic;
+}
+em {
+    color: #ffffff;
+    background-color: #000;
+}
+span {
+    color: darkgreen;
+}
